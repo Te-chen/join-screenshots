@@ -1,0 +1,5 @@
+# Original site
+https://join-screenshots.zhanghai.me/
+
+# Original upstream source
+# https://github.com/zhanghai/JoinScreenshots
